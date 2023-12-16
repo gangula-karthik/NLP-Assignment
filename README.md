@@ -21,3 +21,5 @@ Authorship Attribution is the process of identifying the author of a text based 
     scikit-learn for machine learning
     Matplotlib & Seaborn for visualization
     Jupyter Notebook for interactive development
+
+## Achieving a Remarkable 95% F1 Score on 5-Fold Cross-Validation 🏅📈
