@@ -22,4 +22,6 @@ Authorship Attribution is the process of identifying the author of a text based 
     Matplotlib & Seaborn for visualization
     Jupyter Notebook for interactive development
 
-## Achieving a Remarkable 95% F1 Score on 5-Fold Cross-Validation 🏅📈
+## Performance Highlight: 95% F1 Score on Stratified 5-Fold Cross-Validation 🏅📈
+
+The pinnacle of success in this Authorship Attribution project is the remarkable achievement of a 95% F1 score, meticulously obtained through Stratified 5-Fold Cross-Validation. This exceptional result is far more than a mere indicator of accuracy; it's a compelling evidence of the model's robustness and its consistent performance across diverse data subsets.
